@@ -1,0 +1,6 @@
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\CRUD.Departamentos\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.dll
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\CRUD.Departamentos\CRUD.EntityLayer\bin\Debug\CRUD.EntityLayer.pdb
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\CRUD.Departamentos\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\CRUD.Departamentos\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\CRUD.Departamentos\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.dll
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\CRUD.Departamentos\CRUD.EntityLayer\obj\Debug\CRUD.EntityLayer.pdb
